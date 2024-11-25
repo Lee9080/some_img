@@ -1,3 +1,3 @@
 png大小不固定,svg大小32x32
 
-![image](https://www.clashverge.dev/assets/icons/adjust.svg)
+![image](https://www.clashverge.dev/assets/icons/ambulance.svg)
